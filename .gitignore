@@ -1,4 +1,10 @@
 # FlowPilot sub-projects
 FlowPilotBE/
 FlowPilotUI/
+
+# GitNexus
 .gitnexus
+
+# Claude Code settings (local, shouldn't be committed)
+.claude/settings.local.json
+.claude/settings.json
